@@ -1,4 +1,5 @@
-# Setting up a new computer (forked from: https://github.com/nnja/new-computer)
+# Setting up a new computer
+(forked from: https://github.com/nnja/new-computer)
 
 My personal installation script for a new computer.
 

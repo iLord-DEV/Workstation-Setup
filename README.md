@@ -1,10 +1,12 @@
-# Setting up a new computer
+# Setting up a new computer (forked from: https://github.com/nnja/new-computer)
 
 My personal installation script for a new computer.
 
 Note, this sets up an extremely opinionated and highly personalized installation, with my preferences and dotfiles. Please adjust as needed!
 
 My dotfile repo is currently private, but I plan on creating a public repo before the end of the year.
+
+
 
 Some resources borrowed from:
 
